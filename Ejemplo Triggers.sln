@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo Triggers", "Ejemplo Triggers\Ejemplo Triggers.csproj", "{01D6043D-ACD2-4A2A-AD07-620D8CE412AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D6043D-ACD2-4A2A-AD07-620D8CE412AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D6043D-ACD2-4A2A-AD07-620D8CE412AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D6043D-ACD2-4A2A-AD07-620D8CE412AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D6043D-ACD2-4A2A-AD07-620D8CE412AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F928E63-5D10-40ED-8F37-6C23AD0C6E00}
+	EndGlobalSection
+EndGlobal
